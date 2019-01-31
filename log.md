@@ -17,3 +17,12 @@
 **Link to work:**
 [Repo Link](https://github.com/cloges4/FCC-Survey-Form)
 [Github pages](https://cloges4.github.io/FCC-Survey-Form/)
+
+### Day 1 January 30, 2019
+
+**Today's Progress**: Woke up at 5am to get some code time in before work. I started the day by building my own version of the startup landing page project from [course Zero to Mastery](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/).
+
+**Thoughts:** The project is supposed to be done using bootstrap, but I feel I can do this must easier with less css and server requests by just using plan css and flexbox .
+
+**Link to work:**
+[Repo Link](https://github.com/cloges4/Startup-lp)
