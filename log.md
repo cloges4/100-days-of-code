@@ -51,3 +51,13 @@
 
 - [Repo Link](https://github.com/cloges4/Startup-lp)
 - [Live Demo](https://cloges4.github.io/Startup-lp/)
+
+### Day 5 February 2, 2019
+
+**Today's Progress**: Started working on Free Code Camp Project Product Landing page
+
+**Thoughts:** I was so focused on trying to get a background video working, I completely forgot about the project requirements.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Product-Landing-Page)
