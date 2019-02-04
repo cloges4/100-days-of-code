@@ -61,3 +61,13 @@
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/FCC-Product-Landing-Page)
+
+### Day 6 February 3, 2019
+
+**Today's Progress**: Continued working on Free Code Camp Project Product Landing page
+
+**Thoughts:** created a new branch in git so I could rewrite the HTML to meet project requirements.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Product-Landing-Page)
