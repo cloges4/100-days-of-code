@@ -71,3 +71,13 @@
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/FCC-Product-Landing-Page)
+
+### Day 7 February 4, 2019
+
+**Today's Progress**: Finished layout on Free Code Camp Project Product Landing page
+
+**Thoughts:** Busy day with work and kids dis some coding at 5am before work and now after all the kids are in bed made some progress on the layout. "A Wall is built one brick at a time"
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Product-Landing-Page)
