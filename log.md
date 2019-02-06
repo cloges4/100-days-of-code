@@ -81,3 +81,13 @@
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/FCC-Product-Landing-Page)
+
+### Day 8 February 5, 2019
+
+**Today's Progress**: Spent a couple hours refreshing myself on CSS-Grid Then added grid to Free Code Camp Project Product Landing page and worked on spacing and adding real content to the site.
+
+**Thoughts:** I made good progress today, another day and another step closer to completing product LP :)
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Product-Landing-Page)
