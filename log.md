@@ -91,3 +91,13 @@
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/FCC-Product-Landing-Page)
+
+### Day 9 February 6, 2019
+
+**Today's Progress**: The project is mostly complete, there are still a few things I am not quite happy with yet.
+
+**Thoughts:** I still need to add a few media queries. Since I used grid and flexbox the media quieries should not be very big. I also need to refactor the CSS before I can submit the project.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Product-Landing-Page)
