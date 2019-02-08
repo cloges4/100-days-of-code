@@ -111,3 +111,14 @@
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/FCC-Product-Landing-Page)
+
+### Day 11 February 8, 2019
+
+**Today's Progress**: Great day finished product lp project.
+
+**Thoughts:** Feel good after todays efforts, I solved 2 issues and was able to get site live. I used my problem solving abilities and google search to fix both bugs.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Product-Landing-Page)
+- [Live](https://cloges4.github.io/FCC-Product-Landing-Page/)
