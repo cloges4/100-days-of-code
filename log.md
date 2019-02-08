@@ -101,3 +101,13 @@
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/FCC-Product-Landing-Page)
+
+### Day 10 February 7, 2019
+
+**Today's Progress**: One bug holding up project completion will figure it out tomorrow and submit project.
+
+**Thoughts:** Looked over entire project thought everything was ready to go, decided to fire browsersync to make sure and found in issue. The video overlay is overflowing, leaving a grey box on mobile only. I got ride of box but overlay color is not getting dark enough. Back to the drawing board.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Product-Landing-Page)
