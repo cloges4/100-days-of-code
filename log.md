@@ -122,3 +122,14 @@
 
 - [Repo Link](https://github.com/cloges4/FCC-Product-Landing-Page)
 - [Live](https://cloges4.github.io/FCC-Product-Landing-Page/)
+
+### Day 12 February 9, 2019
+
+**Today's Progress**: Trying to come up with a topic for the Technical Documentation page project for RWD Certification. Spent some of the day refreshing my JavaScript skills.
+
+**Thoughts:** I realize the hardest part of a project is starting one, from now on I think I should have two projects going in different stages.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
+- [Repo Link](https://github.com/cloges4/Matching-game)
