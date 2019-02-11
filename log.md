@@ -133,3 +133,14 @@
 
 - [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
 - [Repo Link](https://github.com/cloges4/Matching-game)
+
+### Day 13 February 10, 2019
+
+**Today's Progress**: Started working on match making game and Technical Documentation page project.
+
+**Thoughts:** I can make better initial progress on the match making game so I am putting more effort until I figure out my topic for the Tech document.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
+- [Repo Link](https://github.com/cloges4/Matching-game)
