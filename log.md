@@ -144,3 +144,14 @@
 
 - [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
 - [Repo Link](https://github.com/cloges4/Matching-game)
+
+### Day 14 February 11, 2019
+
+**Today's Progress**: Worked on match making game and Technical Documentation page project.
+
+**Thoughts:** For the matching game I plan on getting the layout set then work maybo animating the card flip, followed by the javascript. On the tech doc project I need to consider condensing down the content.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
+- [Repo Link](https://github.com/cloges4/Matching-game)
