@@ -155,3 +155,13 @@
 
 - [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
 - [Repo Link](https://github.com/cloges4/Matching-game)
+
+### Day 15 February 12, 2019
+
+**Today's Progress**: Worked on Technical Documentation page project. All Conntent has been added, i still need to add hooks for the some code elements so they can be more easily targeted.
+
+**Thoughts:** I decided to focus on one project at a time during week day since my time is limited.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
