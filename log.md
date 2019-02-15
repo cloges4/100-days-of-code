@@ -176,3 +176,13 @@
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
+
+### Day 17 February 14, 2019
+
+**Today's Progress**: Worked on Technical Documentation page project again today. Focused on code section styling. I wanted to mimic the color styling of of an editor, so I added span tags with classes to give properties, values, etc. colored text. This is a ton of work.
+
+**Thoughts:** I plan on finishing all code styling tomorrow and maybe #main-doc elements as well. If I can achieve this, Should only have the navbar and some responsive work to do before refactoring.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
