@@ -195,3 +195,13 @@
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
+
+### Day 19 February 16, 2019
+
+**Today's Progress**: Worked on Technical Documentation page project again today. Finished the styling and adjusting markup for the code sections. I also changed the browser support lists to tables and styled them.
+
+**Thoughts:** Should have spent more time thinking about the structure of the document. This would have saved me from having to repeatedly changing the markup to fit the plan.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
