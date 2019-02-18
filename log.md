@@ -205,3 +205,13 @@
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
+
+### Day 20 February 17, 2019
+
+**Today's Progress**: Finished styling tech doc. Still need to set mobile and review for errors before completing.
+
+**Thoughts:** I need a more organized way of writing CSS.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
