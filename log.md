@@ -215,3 +215,20 @@
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
+
+### Day 21 February 18, 2019
+
+**Today's Progress**: I noticed some major issues with the site when it comes to responsiveness. I realize I need to:
+
+1. Plan before starting project.
+2. Sketch out a design to better understand the markup needed and avoid the need to add markup later.
+3. A better understanding of css-grid and flexbox, so I can avoid adding unnecessary containers to the markup.
+
+I created a new branch for the project so I can rebuild the right way.
+
+**Thoughts:** I will most likely spend several days build demos using flexbox, grid, and a combination of both.
+
+**Link to work:**
+
+- [Repo Link](<[https://github.com/cloges4/FCC-Tech-Doc](https://github.com/cloges4/FCC-Tech-Doc/tree/rebuild)>)
+- [Practice repo](https://github.com/cloges4/practice)
