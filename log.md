@@ -232,3 +232,13 @@ I created a new branch for the project so I can rebuild the right way.
 
 - [Repo Link](<[https://github.com/cloges4/FCC-Tech-Doc](https://github.com/cloges4/FCC-Tech-Doc/tree/rebuild)>)
 - [Practice repo](https://github.com/cloges4/practice)
+
+### Day 22 February 19, 2019
+
+**Today's Progress** Worked on some demos to continue learning grid.
+
+**Thoughts:** I am a bit frustrated, I seem to be missing some concepts of css grid.
+
+**Link to work:**
+
+- [Practice repo](https://github.com/cloges4/practice)
