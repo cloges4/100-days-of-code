@@ -242,3 +242,14 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Practice repo](https://github.com/cloges4/practice)
+
+### Day 23 February 20, 2019
+
+**Today's Progress** Worked on grid a little more, then added markup to my tech doc project
+
+**Thoughts:** need to finish this project Grid could use some more attention ready to get back into javascript.
+
+**Link to work:**
+
+- [Practice repo](https://github.com/cloges4/practice)
+- [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
