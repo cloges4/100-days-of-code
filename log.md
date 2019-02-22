@@ -253,3 +253,13 @@ I created a new branch for the project so I can rebuild the right way.
 
 - [Practice repo](https://github.com/cloges4/practice)
 - [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
+
+### Day 24 February 21, 2019
+
+**Today's Progress** Added all markup to tech doc replaced the my browser support tables with embeded canisue tables instead. Figured out how to deal with the pre tag.
+
+**Thoughts:** Plan for tomorrow is to get mobile and desktop navigation working as they should.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
