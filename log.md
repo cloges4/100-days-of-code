@@ -263,3 +263,13 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
+
+### Day 25 February 22, 2019
+
+**Today's Progress** Mobile layout is completed on Tech doc. just need to create mobile navigation.
+
+**Thoughts:** finally figured out grid plan on getting all screen sizes finished tomorrow
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
