@@ -273,3 +273,13 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
+
+### Day 26 February 23, 2019
+
+**Today's Progress** Spent the day learning and building a mobile layout with a little bit of javascript
+
+**Thoughts:** need to fit mobile nav into project
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
