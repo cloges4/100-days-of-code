@@ -283,3 +283,14 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
+
+### Day 27 February 24, 2019
+
+**Today's Progress**Finished and deployed Tech doc project.
+
+**Thoughts:** This project had a few more challenges than I thought.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
+- [Live](https://cloges4.github.io/FCC-Tech-Doc/)
