@@ -294,3 +294,13 @@ I created a new branch for the project so I can rebuild the right way.
 
 - [Repo Link](https://github.com/cloges4/FCC-Tech-Doc)
 - [Live](https://cloges4.github.io/FCC-Tech-Doc/)
+
+### Day 28 February 25, 2019
+
+**Today's Progress** Started FreeCodeCamp portfolio project. I created a design and add most of the markup. I also spent some time practicing javascript.
+
+**Thoughts:** I made good progress on portfolio project, once I gather all the images and social icons I should be able to get the project done before the end of the weekend.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/fcc-portfolio)
