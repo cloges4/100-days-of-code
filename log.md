@@ -304,3 +304,14 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/fcc-portfolio)
+
+### Day 29 February 26, 2019
+
+**Today's Progress** Added screenshots of projects and fixed a margin issue in the tribute page project from last year
+
+**Thoughts:** the plan for tomorrow is to get as much done on the portfolio project as possible.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/fcc-portfolio)
+- - [Repo Link](https://github.com/cloges4/FCC-Tribute-page)
