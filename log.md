@@ -314,4 +314,14 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/fcc-portfolio)
-- - [Repo Link](https://github.com/cloges4/FCC-Tribute-page)
+- [Repo Link](https://github.com/cloges4/FCC-Tribute-page)
+
+### Day 30 February 27, 2019
+
+**Today's Progress** Spent the day build portfolio site almost done just a little more styling.
+
+**Thoughts:** I need to finish working on the project titles and some media queries and that should be it.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/fcc-portfolio)
