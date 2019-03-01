@@ -325,3 +325,13 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/fcc-portfolio)
+
+### Day 31 February 28, 2019
+
+**Today's Progress** Worked on project cards.
+
+**Thoughts:** All the advice I hear is to not spend to much time on styling the projects. My reality is I find it very hard to leave something looking just ok.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/fcc-portfolio)
