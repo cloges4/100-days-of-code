@@ -335,3 +335,13 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/fcc-portfolio)
+
+### Day 32 March 1, 2019
+
+**Today's Progress** Finished project cards and mobile layout.
+
+**Thoughts:** I still need to add a few media queries and adjust the cards layout for bigger screens.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/fcc-portfolio)
