@@ -357,3 +357,13 @@ I created a new branch for the project so I can rebuild the right way.
 - [Repo Link](https://github.com/cloges4/fcc-portfolio)
 - [Github pages](https://cloges4.github.io/fcc-portfolio/#project-section)
 - [Live site](http://charlesloges.com/)
+
+### Day 34 March 3, 2019
+
+**Today's Progress** Worked on JavaScript Basics Section of FreeCodeCamp then started setting up my next project.
+
+**Thoughts:** This Project is for a real client, so I need to be on point.
+
+**Link to work:**
+
+- [FreeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/word-blanks)
