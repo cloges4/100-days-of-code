@@ -345,3 +345,15 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo Link](https://github.com/cloges4/fcc-portfolio)
+
+### Day 33 March 2, 2019
+
+**Today's Progress** I completed FreeCodeCamp portfolio project and got the RWD certification.
+
+**Thoughts:** I am happy with how the project turned out. Ready for the next challenge.
+
+**Link to work:**
+
+- [Repo Link](https://github.com/cloges4/fcc-portfolio)
+- [Github pages](https://cloges4.github.io/fcc-portfolio/#project-section)
+- [Live site](http://charlesloges.com/)
