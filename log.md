@@ -367,3 +367,13 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [FreeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/word-blanks)
+
+### Day 35 March 4, 2019
+
+**Today's Progress** worked on JavaScript section 11 of Zero to mastery course
+
+**Thoughts:** Should be able to finish this section tomorrow
+
+**Link to work:**
+
+- [Zero to Mastery](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/t/lecture/8670682?start=15)
