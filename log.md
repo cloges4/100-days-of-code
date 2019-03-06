@@ -377,3 +377,14 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Zero to Mastery](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/t/lecture/8670682?start=15)
+- [Repo](https://github.com/cloges4/ZTM-excercises)
+
+### Day 36 March 5, 2019
+
+**Today's Progress** worked on JavaScript section 11 of Zero to mastery course again finshed functions and arrays
+
+**Thoughts:** The plan is to finish this section tomorrow
+
+**Link to work:**
+
+- [Repo](https://github.com/cloges4/ZTM-excercises)
