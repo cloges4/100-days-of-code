@@ -388,3 +388,13 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo](https://github.com/cloges4/ZTM-excercises)
+
+### Day 37 March 6, 2019
+
+**Today's Progress** worked with objects and loops in javascript this evening.
+
+**Thoughts:** Tomorrow I plan on working on DOM manipulation.
+
+**Link to work:**
+
+- [Repo](https://github.com/cloges4/ZTM-excercises)
