@@ -398,3 +398,13 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo](https://github.com/cloges4/ZTM-excercises)
+
+### Day 38 March 8, 2019
+
+**Today's Progress** Worked on eventListeners and callBack functions.
+
+**Thoughts:** Tomorrow I plan on working on DOM manipulation.
+
+**Link to work:**
+
+- [Repo](https://github.com/cloges4/ZTM-excercises)
