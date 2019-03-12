@@ -408,3 +408,13 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo](https://github.com/cloges4/ZTM-excercises)
+
+### Day 1 March 11, 2019
+
+**Today's Progress** The flu kicked my butt most of last week, so I am starting again :). Worked on Dom manipulation and started a color picker project.
+
+**Thoughts:** I will likely spend a few days working on projects centered around dom manipulation.
+
+**Link to work:**
+
+- [Repo](https://github.com/cloges4/colorPicker)
