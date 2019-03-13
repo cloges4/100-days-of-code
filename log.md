@@ -418,3 +418,13 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo](https://github.com/cloges4/colorPicker)
+
+### Day 2 March 12, 2019
+
+**Today's Progress** Continuing my work on the color picker app, got the eventListener to work, and made a random number generator.
+
+**Thoughts:** I need to assign possible values from the generator to the 16 digits in the hex system, then loop through the random number gen and give the corresponding values to body background.
+
+**Link to work:**
+
+- [Repo](https://github.com/cloges4/colorPicker)
