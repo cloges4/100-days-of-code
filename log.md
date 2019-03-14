@@ -428,3 +428,13 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo](https://github.com/cloges4/colorPicker)
+
+### Day 3 March 13, 2019
+
+**Today's Progress** Was able to get all six numbers into an array.
+
+**Thoughts:** I need to some how assign each number value in the array to a hex value.
+
+**Link to work:**
+
+- [Repo](https://github.com/cloges4/colorPicker)
