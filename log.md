@@ -438,3 +438,13 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo](https://github.com/cloges4/colorPicker)
+
+### Day 4 March 14, 2019
+
+**Today's Progress** did not make any progress on colorpicker app, not sure how to assign random numbers to hex values.
+
+**Thoughts:** I need to some how assign each number value in the array to a hex value.
+
+**Link to work:**
+
+- [Repo](https://github.com/cloges4/colorPicker)
