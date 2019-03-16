@@ -448,3 +448,13 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo](https://github.com/cloges4/colorPicker)
+
+### Day 5 March 15, 2019
+
+**Today's Progress** Finished all basic functionality fof colorpicker app just need to finish up a few things and clean up the code.
+
+**Thoughts:** No thoughts today just tied that all. :)
+
+**Link to work:**
+
+- [Repo](https://github.com/cloges4/colorPicker)
