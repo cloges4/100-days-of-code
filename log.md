@@ -458,3 +458,13 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo](https://github.com/cloges4/colorPicker)
+
+### Day 6 March 16, 2019
+
+**Today's Progress** Got all the functionality for the colorpicker app that I was looking for when I started the project.
+
+**Thoughts:** I will deploy app to github pages once I got through the code once more and figure out why rbg value is being displayed instead of hex value.
+
+**Link to work:**
+
+- [Repo](https://github.com/cloges4/colorPicker)
