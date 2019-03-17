@@ -468,3 +468,14 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 
 - [Repo](https://github.com/cloges4/colorPicker)
+
+### Day 7 March 17, 2019
+
+**Today's Progress** Finished color picker app.
+
+**Thoughts:** next I will continue course work and work on todo list app as well as TJA redesign
+
+**Link to work:**
+
+- [Repo](https://github.com/cloges4/colorPicker)
+- [Live](https://cloges4.github.io/colorPicker/)
