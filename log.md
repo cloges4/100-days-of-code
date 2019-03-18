@@ -479,3 +479,12 @@ I created a new branch for the project so I can rebuild the right way.
 
 - [Repo](https://github.com/cloges4/colorPicker)
 - [Live](https://cloges4.github.io/colorPicker/)
+
+
+### Day 8 March 18, 2019
+
+**Today's Progress**worked on FreeCodeCamp JavaScript Basics
+
+**Thoughts:** I want to get Javascript Algorithms And Data Structures Certification done by end of month-
+
+**Link to work:**
