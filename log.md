@@ -495,3 +495,11 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:** I want to get Javascript Algorithms And Data Structures Certification done by end of month-
 
 **Link to work:**
+
+### Day 10 March 20, 2019
+
+**Today's Progress** Almost finished JavaScript Basics.
+
+**Thoughts:** I want to get Javascript Algorithms And Data Structures Certification done by end of month-
+
+**Link to work:**
