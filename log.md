@@ -496,10 +496,10 @@ I created a new branch for the project so I can rebuild the right way.
 
 **Link to work:**
 
-### Day 10 March 20, 2019
+### Day 1 May 14, 2019
 
-**Today's Progress** Almost finished JavaScript Basics.
+**Today's Progress**worked on FreeCodeCamp intro JavaScript
 
-**Thoughts:** I want to get Javascript Algorithms And Data Structures Certification done by end of month-
+**Thoughts:** Feels get to get back to coding again.
 
 **Link to work:**
