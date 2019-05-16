@@ -503,3 +503,11 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:** Feels get to get back to coding again.
 
 **Link to work:**
+
+### Day 2 May 15, 2019
+
+**Today's Progress** Continued working on FreeCodeCamp intro JavaScript
+
+**Thoughts:** Been a long day but I am happy to be coding
+
+**Link to work:**
