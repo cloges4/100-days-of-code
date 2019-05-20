@@ -511,3 +511,11 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:** Been a long day but I am happy to be coding
 
 **Link to work:**
+
+### Day 1 May 20, 2019
+
+**Today's Progress** Continued working on FreeCodeCamp intro JavaScript. Then started working on pet adoption app.
+
+**Thoughts:** I find myself most productive when I am working on a project.
+
+**Link to work:**
