@@ -519,3 +519,11 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:** I find myself most productive when I am working on a project.
 
 **Link to work:**
+
+### Day 1 May 28, 2019
+
+**Today's Progress** Continued working on FreeCodeCamp intro JavaScript.
+
+**Thoughts:** Should finish basic js section tomorrow.
+
+**Link to work:**
