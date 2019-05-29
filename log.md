@@ -527,3 +527,11 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:** Should finish basic js section tomorrow.
 
 **Link to work:**
+
+### Day 2 May 29, 2019
+
+**Today's Progress** Finished basic JS section on freecodecamp also worked on making tech choices for Client site. Leaning towards using Nelify and Eleventy.
+
+**Thoughts:** Should finish basic js section tomorrow.
+
+**Link to work:**
