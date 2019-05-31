@@ -535,3 +535,11 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:** Should finish basic js section tomorrow.
 
 **Link to work:**
+
+### Day 3 May 30, 2019
+
+**Today's Progress** Started ES6 section on freecodecamp
+
+**Thoughts:** Was hoping to finish ES6 today but I need to spend a little more time on Destructuring.
+
+**Link to work:**
