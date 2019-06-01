@@ -551,3 +551,11 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:** I am making good stead progress.
 
 **Link to work:**
+
+### Day 5 June 1, 2019
+
+**Today's Progress** Learned about getters and setters and import statements today. Decided to spend sometime reviewing and playing with to js concepts I have learned to this point.
+
+**Thoughts:** I am making good stead progress.
+
+Learned about getters and setters and import statements today. Decided to spend sometime reviewing and playing with to js concepts I have learned to this
