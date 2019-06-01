@@ -543,3 +543,11 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:** Was hoping to finish ES6 today but I need to spend a little more time on Destructuring.
 
 **Link to work:**
+
+### Day 4 May 31, 2019
+
+**Today's Progress** Finished destructuring and also learned template literals along the way.
+
+**Thoughts:** I am making good stead progress.
+
+**Link to work:**
