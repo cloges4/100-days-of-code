@@ -558,4 +558,8 @@ I created a new branch for the project so I can rebuild the right way.
 
 **Thoughts:** I am making good stead progress.
 
-Learned about getters and setters and import statements today. Decided to spend sometime reviewing and playing with to js concepts I have learned to this
+### Day 6 June 2, 2019
+
+**Today's Progress** Spent the day reviewing and playing around with basic js concepts and ES6 features.
+
+**Thoughts:** This week I need to start building something
