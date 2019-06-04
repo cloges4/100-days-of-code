@@ -563,3 +563,13 @@ I created a new branch for the project so I can rebuild the right way.
 **Today's Progress** Spent the day reviewing and playing around with basic js concepts and ES6 features.
 
 **Thoughts:** This week I need to start building something
+
+**Link to work:**
+
+### Day 7 June 3, 2019
+
+**Today's Progress** Reintroduced myself to Regex for the first time in a while. They are as confusing as I remember, glad to see somethings haven't changed.
+
+**Thoughts:**
+
+**Link to work:**
