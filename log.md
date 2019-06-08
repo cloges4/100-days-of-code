@@ -573,3 +573,36 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:**
 
 **Link to work:**
+
+### Day 8 June 4, 2019
+
+**Today's Progress** Started designing countdowntimer project and reviewed and played with Some of the ES6 features
+
+**Thoughts:** making good progress nice and stead. This is not a race it is a marathon.
+
+**Link to work:**
+
+### Day 9 June 5, 2019
+
+**Today's Progress** The day did not go as planned, but I did learn something from trouble shooting the PHP issue on the wordpress site
+
+**Thoughts:** Keep learning
+
+**Link to work:**
+
+### Day 10 June 6, 2019
+
+**Today's Progress** Setup budget app project still early on a lot to do before coding begins
+
+**Thoughts:** need to make sure I have a few different projects to work on to keep from getting burned out for always learning and not doing
+
+**Link to work:**
+
+### Day 11 June 7, 2019
+
+**Today's Progress** Continued Working with regex, learned alot, pretty comfortable using them outside of js, next step is to use them within js. Worked on the countdown timer figured out design and functionality, read to start building it hope to finish by the end of weekend. fingers crossed.
+
+**Thoughts:**made good progress today completed all my goals
+
+**Link to work:**
+[Repo](https://github.com/cloges4/countdowntimer)
