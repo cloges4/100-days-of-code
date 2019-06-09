@@ -606,3 +606,12 @@ I created a new branch for the project so I can rebuild the right way.
 
 **Link to work:**
 [Repo](https://github.com/cloges4/countdowntimer)
+
+### Day 12 June 8, 2019
+
+**Today's Progress** Spent another day working on regex. I worked on solving some challenges using regex and then worked on the @freecodecamp excercises. Didn't get as much done on the countdown timer as I wanted. much of my time was used to figure out the best way to display the timer itself.
+
+**Thoughts:**I am happy with todays progress. Everything did not get finished that I wanted, but I did not rush thru my learning I spent the time now in really learning regex so I will have a solid foundation going forward.
+
+**Link to work:**
+[Repo](https://github.com/cloges4/countdowntimer)
