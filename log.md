@@ -615,3 +615,11 @@ I created a new branch for the project so I can rebuild the right way.
 
 **Link to work:**
 [Repo](https://github.com/cloges4/countdowntimer)
+
+### Day 13 June 9, 2019
+
+**Today's Progress** Started the day working on and completing the debugging section @freecodecamp. Later I started using regex in javascript and worked on some of the excercises. So much for getting the countdowntimer finished. Just not enough time in the day I guess. Still happy with my progress.
+
+**Thoughts:** My progress this weekend was awesome, Don't try to push through content to fast. I would rather spend another day and understand than have to go back later.
+
+**Link to work:**
