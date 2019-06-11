@@ -623,3 +623,13 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:** My progress this weekend was awesome, Don't try to push through content to fast. I would rather spend another day and understand than have to go back later.
 
 **Link to work:**
+
+
+
+### Day 14 June 10, 2019
+
+**Today's Progress** Finally finished Regex I spent the better part of 3 evenings working on them, honestly it feels much longer. I really enjoyed solving problems with them but I am ready to move on to Basic Data Structures.
+
+**Thoughts:** Made Good progress today. This week is going to be very busy, I want to Basic Data Structures and Basic Algorithm Scripting on free code camp as well as build and deploy the countdown timer.
+
+**Link to work:**
