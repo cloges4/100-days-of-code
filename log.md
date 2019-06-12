@@ -624,8 +624,6 @@ I created a new branch for the project so I can rebuild the right way.
 
 **Link to work:**
 
-
-
 ### Day 14 June 10, 2019
 
 **Today's Progress** Finally finished Regex I spent the better part of 3 evenings working on them, honestly it feels much longer. I really enjoyed solving problems with them but I am ready to move on to Basic Data Structures.
@@ -633,3 +631,12 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:** Made Good progress today. This week is going to be very busy, I want to Basic Data Structures and Basic Algorithm Scripting on free code camp as well as build and deploy the countdown timer.
 
 **Link to work:**
+
+### Day 15 June 11, 2019
+
+**Today's Progress** I started Basic Data Structures on FCC today. I was anticipating spending 2 days on them but, managed to complete them in a few hours. I guess I remember more than I thought. I Also worked on the countdown timer finished all the HTML and the layout. Still need to finish some stills and add the JavaScript.
+
+**Thoughts:** Good Day I I may be able to get ahead of the game. Knock on wood.
+
+**Link to work:**
+[Repo](https://github.com/cloges4/countdowntimer)
