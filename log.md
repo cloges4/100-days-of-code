@@ -636,7 +636,16 @@ I created a new branch for the project so I can rebuild the right way.
 
 **Today's Progress** I started Basic Data Structures on FCC today. I was anticipating spending 2 days on them but, managed to complete them in a few hours. I guess I remember more than I thought. I Also worked on the countdown timer finished all the HTML and the layout. Still need to finish some stills and add the JavaScript.
 
-**Thoughts:** Good Day I I may be able to get ahead of the game. Knock on wood.
+**Thoughts:** Good Day I may be able to get ahead of the game. Knock on wood.
+
+**Link to work:**
+[Repo](https://github.com/cloges4/countdowntimer)
+
+### Day 16 June 12, 2019
+
+**Today's Progress** Worked on countdown timer project made a change in how to adjust the time and fixed the css to accommodate the layout changes. Worked on some of the Basic Algorithm Scripting on FCC.
+
+**Thoughts:** Not sure exactly what to do, the Basic Algorithm Scripting section on FCC was very difficult. I got the answers but was not getting the code to pass. I understand what I need to do just not the best way to get there.
 
 **Link to work:**
 [Repo](https://github.com/cloges4/countdowntimer)
