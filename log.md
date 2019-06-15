@@ -650,12 +650,19 @@ I created a new branch for the project so I can rebuild the right way.
 **Link to work:**
 [Repo](https://github.com/cloges4/countdowntimer)
 
-
 ### Day 17 June 13, 2019
 
 **Today's Progress** With the Graduation tomorrow I did not get much done today but still at least 1 hour. I worked on some Basic Algorithm Scripting and wrote a few lines of javascript in the countdown timer
 
-**Thoughts:** I need to just try and get some things done over the next few days while everyone is here for the graduation. 
+**Thoughts:** I need to just try and get some things done over the next few days while everyone is here for the graduation.
 
 **Link to work:**
 [Repo](https://github.com/cloges4/countdowntimer)
+
+### Day 18 June 14, 2019
+
+**Today's Progress** Worked on getting better at writing algorithms efficiently. Spent sometime working on the project Euler problems. I enjoyed solving these, they are challenging enough without being impossible for a beginner.
+
+**Thoughts:** I need to just try and get some things done over the next few days while everyone is here for the graduation.
+
+**Link to work:**
