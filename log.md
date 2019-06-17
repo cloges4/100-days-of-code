@@ -666,3 +666,20 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:** I need to just try and get some things done over the next few days while everyone is here for the graduation.
 
 **Link to work:**
+
+
+### Day 19 June 15, 2019
+
+**Today's Progress** Worked on getting better at writing algorithms using the project euler to practice.
+
+**Thoughts:** I need to just try and get some things done over the next few days while everyone is here for the graduation.
+
+**Link to work:**
+
+### Day 20 June 16, 2019
+
+**Today's Progress** helped a friend with fix css issues he was having on a site  he was working on, then worked on some of the project euler algorithms
+
+**Thoughts:** I need to just try and get some things done over the next few days while everyone is here for the graduation.
+
+**Link to work:**
