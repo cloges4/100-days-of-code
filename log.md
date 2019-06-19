@@ -667,7 +667,6 @@ I created a new branch for the project so I can rebuild the right way.
 
 **Link to work:**
 
-
 ### Day 19 June 15, 2019
 
 **Today's Progress** Worked on getting better at writing algorithms using the project euler to practice.
@@ -678,17 +677,24 @@ I created a new branch for the project so I can rebuild the right way.
 
 ### Day 20 June 16, 2019
 
-**Today's Progress** helped a friend with fix css issues he was having on a site  he was working on, then worked on some of the project euler algorithms
+**Today's Progress** helped a friend with fix css issues he was having on a site he was working on, then worked on some of the project euler algorithms
 
 **Thoughts:** I need to just try and get some things done over the next few days while everyone is here for the graduation.
 
 **Link to work:**
-
 
 ### Day 21 June 17, 2019
 
 **Today's Progress** Worked on the @freecodecamp basic algorithms today, I have spent alot of time on them recently. The benefit seems to be paying off, I am getting more comfortable writing js. Just need to find spend some time on my countdown timer.
 
 **Thoughts:** Good day I hit a roadblock when I started the Basic Algorithm Scripting section, but my hard work and consistent effort seem to be paying off.
+
+**Link to work:**
+
+### Day 22 June 18, 2019
+
+**Today's Progress** The life of a developer is like riding a wave one moment we are on top feeling like a genius then the next we are under the wave wondering were are surf board went. I think I will end my night on top of the wave. worked on FCC algorithm challenges tonight.
+
+**Thoughts:** The evening started off rough, the first algorithm was to return the largest number form 4 sub arrays into a new array. I new the steps to accomplish this, but had difficulty writting it in code. The next 3 were very easy for me. I need to work on array manipulation a bit more.
 
 **Link to work:**
