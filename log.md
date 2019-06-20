@@ -698,3 +698,12 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:** The evening started off rough, the first algorithm was to return the largest number form 4 sub arrays into a new array. I new the steps to accomplish this, but had difficulty writting it in code. The next 3 were very easy for me. I need to work on array manipulation a bit more.
 
 **Link to work:**
+
+
+### Day 23 June 19, 2019
+
+**Today's Progress** Continued working on freecodecamp basic algorithm scripting. Almost finished the section. I am enjoying working on them, but I am ready to move forward.
+
+**Thoughts:** continue working on algorithms, especially those involving arrays.
+
+**Link to work:**
