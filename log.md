@@ -707,3 +707,12 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:** continue working on algorithms, especially those involving arrays.
 
 **Link to work:**
+
+
+### Day 24 June 20, 2019
+
+**Today's Progress** Another day on basic algorithm scripting I will get to the end of this section soon. 
+
+**Thoughts:** continue working on algorithms, especially those involving arrays.
+
+**Link to work:**
