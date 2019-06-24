@@ -716,3 +716,30 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:** continue working on algorithms, especially those involving arrays.
 
 **Link to work:**
+
+### Day 25 June 21, 2019
+
+**Today's Progress**  feels like the movie ground hog day. Another day of basic algorithm scripting, tomorrow I should finish this section. I will still work on algorithms as much as possible. 
+
+**Thoughts:** Make progress daily
+
+**Link to work:**
+
+### Day 26 June 22, 2019
+
+**Today's Progress** Finally finished basic algorithm scripting. I am much better and more comfortable writing js than when I started, I will continue to work to get better.
+
+**Thoughts:** keep moving forward
+
+**Link to work:*
+
+### Day 27 June 23, 2019
+
+**Today's Progress**  Worked on getting better at solving problems using algorithms. If  we do things that are outside of our comfort zone, than we will grow as developers
+
+**Thoughts:** if I ever feel disappointed with the week I had  or I wish I got more done. I ask myself two questions
+1. Did I give max effort on everything I did this week? 
+2. I am a better developer today than I was last week?
+If the answer is yes, than I can live with that.
+
+**Link to work:*
