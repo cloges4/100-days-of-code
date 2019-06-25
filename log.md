@@ -743,3 +743,12 @@ I created a new branch for the project so I can rebuild the right way.
 If the answer is yes, than I can live with that.
 
 **Link to work:*
+
+
+### Day 28 June 24, 2019
+
+**Today's Progress**  Worked on freecodecamp today completed object oriented programing section. Also worked on an Algorithm. Got to get back to building my countdown timer project, but I think I want to build a small project I can knock out in an evening tomorrow just because I want to.
+
+**Thoughts:** I need a quick win, so tomorrow before I do anything else I will build a clock in codepen.
+
+**Link to work:*
