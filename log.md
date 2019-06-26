@@ -752,3 +752,12 @@ If the answer is yes, than I can live with that.
 **Thoughts:** I need a quick win, so tomorrow before I do anything else I will build a clock in codepen.
 
 **Link to work:*
+
+
+### Day 29 June 25, 2019
+
+**Today's Progress** had a good evening of coding, I worked on a small clock project, there was a bit of struggle getting things to work as expected. With some research, debugging, and banging my head against the wall (just kidding) I got the basic functionality to work. Only things let to do is some minor CSS issues and little more JavaScript 
+
+**Thoughts:** Very happy with todays progress, plan on posting my first article to dev.to this week, finishing the DigitalClock project, and much more.
+
+**Link to work:* [Repo](https://github.com/cloges4/DigitalClock)
