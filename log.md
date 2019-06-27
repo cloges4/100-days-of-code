@@ -761,3 +761,13 @@ If the answer is yes, than I can live with that.
 **Thoughts:** Very happy with todays progress, plan on posting my first article to dev.to this week, finishing the DigitalClock project, and much more.
 
 **Link to work:* [Repo](https://github.com/cloges4/DigitalClock)
+
+
+
+### Day 30 June 26, 2019
+
+**Today's Progress** Busy evening with other obligations, found time to work on clock project. Made good progress should finish up tomorrow 
+
+**Thoughts:** Very happy with todays progress, plan on posting my first article to dev.to this week, finishing the DigitalClock project, and much more.
+
+**Link to work:* [Repo](https://github.com/cloges4/DigitalClock)
