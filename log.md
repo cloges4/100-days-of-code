@@ -771,3 +771,15 @@ If the answer is yes, than I can live with that.
 **Thoughts:** Very happy with todays progress, plan on posting my first article to dev.to this week, finishing the DigitalClock project, and much more.
 
 **Link to work:* [Repo](https://github.com/cloges4/DigitalClock)
+
+
+
+### Day 31 June 27, 2019
+
+**Today's Progress** Finished Clock project, I was able to do everything I wanted with the project. tomorrow its back to freecodecamp to work on js and algorithm cert.
+
+**Thoughts:** Clock project is completed I am happy with the outcome.
+
+**Link to work:* 
+[Repo](https://github.com/cloges4/DigitalClock)
+[Demo](https://codepen.io/cloges4/full/eweXag)
