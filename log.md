@@ -699,7 +699,6 @@ I created a new branch for the project so I can rebuild the right way.
 
 **Link to work:**
 
-
 ### Day 23 June 19, 2019
 
 **Today's Progress** Continued working on freecodecamp basic algorithm scripting. Almost finished the section. I am enjoying working on them, but I am ready to move forward.
@@ -708,10 +707,9 @@ I created a new branch for the project so I can rebuild the right way.
 
 **Link to work:**
 
-
 ### Day 24 June 20, 2019
 
-**Today's Progress** Another day on basic algorithm scripting I will get to the end of this section soon. 
+**Today's Progress** Another day on basic algorithm scripting I will get to the end of this section soon.
 
 **Thoughts:** continue working on algorithms, especially those involving arrays.
 
@@ -719,7 +717,7 @@ I created a new branch for the project so I can rebuild the right way.
 
 ### Day 25 June 21, 2019
 
-**Today's Progress**  feels like the movie ground hog day. Another day of basic algorithm scripting, tomorrow I should finish this section. I will still work on algorithms as much as possible. 
+**Today's Progress** feels like the movie ground hog day. Another day of basic algorithm scripting, tomorrow I should finish this section. I will still work on algorithms as much as possible.
 
 **Thoughts:** Make progress daily
 
@@ -731,48 +729,43 @@ I created a new branch for the project so I can rebuild the right way.
 
 **Thoughts:** keep moving forward
 
-**Link to work:*
+\*_Link to work:_
 
 ### Day 27 June 23, 2019
 
-**Today's Progress**  Worked on getting better at solving problems using algorithms. If  we do things that are outside of our comfort zone, than we will grow as developers
+**Today's Progress** Worked on getting better at solving problems using algorithms. If we do things that are outside of our comfort zone, than we will grow as developers
 
-**Thoughts:** if I ever feel disappointed with the week I had  or I wish I got more done. I ask myself two questions
-1. Did I give max effort on everything I did this week? 
+**Thoughts:** if I ever feel disappointed with the week I had or I wish I got more done. I ask myself two questions
+
+1. Did I give max effort on everything I did this week?
 2. I am a better developer today than I was last week?
-If the answer is yes, than I can live with that.
+   If the answer is yes, than I can live with that.
 
-**Link to work:*
-
+\*_Link to work:_
 
 ### Day 28 June 24, 2019
 
-**Today's Progress**  Worked on freecodecamp today completed object oriented programing section. Also worked on an Algorithm. Got to get back to building my countdown timer project, but I think I want to build a small project I can knock out in an evening tomorrow just because I want to.
+**Today's Progress** Worked on freecodecamp today completed object oriented programing section. Also worked on an Algorithm. Got to get back to building my countdown timer project, but I think I want to build a small project I can knock out in an evening tomorrow just because I want to.
 
 **Thoughts:** I need a quick win, so tomorrow before I do anything else I will build a clock in codepen.
 
-**Link to work:*
-
+\*_Link to work:_
 
 ### Day 29 June 25, 2019
 
-**Today's Progress** had a good evening of coding, I worked on a small clock project, there was a bit of struggle getting things to work as expected. With some research, debugging, and banging my head against the wall (just kidding) I got the basic functionality to work. Only things let to do is some minor CSS issues and little more JavaScript 
+**Today's Progress** had a good evening of coding, I worked on a small clock project, there was a bit of struggle getting things to work as expected. With some research, debugging, and banging my head against the wall (just kidding) I got the basic functionality to work. Only things let to do is some minor CSS issues and little more JavaScript
 
 **Thoughts:** Very happy with todays progress, plan on posting my first article to dev.to this week, finishing the DigitalClock project, and much more.
 
-**Link to work:* [Repo](https://github.com/cloges4/DigitalClock)
-
-
+\*_Link to work:_ [Repo](https://github.com/cloges4/DigitalClock)
 
 ### Day 30 June 26, 2019
 
-**Today's Progress** Busy evening with other obligations, found time to work on clock project. Made good progress should finish up tomorrow 
+**Today's Progress** Busy evening with other obligations, found time to work on clock project. Made good progress should finish up tomorrow
 
 **Thoughts:** Very happy with todays progress, plan on posting my first article to dev.to this week, finishing the DigitalClock project, and much more.
 
-**Link to work:* [Repo](https://github.com/cloges4/DigitalClock)
-
-
+\*_Link to work:_ [Repo](https://github.com/cloges4/DigitalClock)
 
 ### Day 31 June 27, 2019
 
@@ -780,6 +773,30 @@ If the answer is yes, than I can live with that.
 
 **Thoughts:** Clock project is completed I am happy with the outcome.
 
-**Link to work:* 
+\*_Link to work:_
 [Repo](https://github.com/cloges4/DigitalClock)
 [Demo](https://codepen.io/cloges4/full/eweXag)
+
+### Day 32 June 28, 2019
+
+**Today's Progress** Completed around half the functional programing section on freecodecamp.
+
+**Thoughts:** Making good steady progress.
+
+\*_Link to work:_
+
+### Day 33 June 29, 2019
+
+**Today's Progress** finshed functional programing and started the algorithm section of freecodecamp today
+
+**Thoughts:** Need to work on Cleaning up and organizing repos tomorrow
+
+\*_Link to work:_
+
+### Day 34 June 30, 2019
+
+**Today's Progress** spent the day cleaning up all my repos, adding proper README files, making sure all projects for fcc are hosted on codepen.
+
+**Thoughts:** happy the repos look nice and things are organized.
+
+\*_Link to work:_ [Github with links to all repos](https://github.com/cloges4?tab=repositories)
