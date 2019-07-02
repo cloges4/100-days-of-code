@@ -800,3 +800,14 @@ I created a new branch for the project so I can rebuild the right way.
 **Thoughts:** happy the repos look nice and things are organized.
 
 \*_Link to work:_ [Github with links to all repos](https://github.com/cloges4?tab=repositories)
+
+Worked on FCC Intermediate Algorithm Scripting and tried to understand prototypes, Not sure I totally understand them yet but, I feel a little better about them
+
+
+### Day 35 July 1, 2019
+
+**Today's Progress** Worked on FCC Intermediate Algorithm Scripting and tried to understand prototypes, Not sure I totally understand them yet but, I feel a little better about them
+
+**Thoughts:** Keep making consitent progress
+
+\*_Link to work:_
