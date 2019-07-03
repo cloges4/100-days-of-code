@@ -811,3 +811,12 @@ Worked on FCC Intermediate Algorithm Scripting and tried to understand prototype
 **Thoughts:** Keep making consitent progress
 
 \*_Link to work:_
+
+
+### Day 36 July 2, 2019
+
+**Today's Progress** Worked on FCC Intermediate Algorithm Scripting again today, played around a bit making a few small programs just for the fun of it I guess. 
+
+**Thoughts:** I hit a few roadblocks today I overcame some and not others. I need to just remember I may not understand somethings now, but I will this is a process. Just keep moving forward.
+
+\*_Link to work:_
