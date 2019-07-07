@@ -850,7 +850,17 @@ Worked on FCC Intermediate Algorithm Scripting and tried to understand prototype
 
 ### Day 40 July 6, 2019
 
-**Today's Progress** 
+**Today's Progress** Finally at home again and able to get some work done, did little of everything today from work on fcc algorithms to fixing a wordpress site that went down. happy with the day.
+
+**Thoughts:** 
+
+\*_Link to work:_
+
+
+
+### Day 41 July 7, 2019
+
+**Today's Progress** Decided this week will be dedicated to reviewing everything in js I have learned so far and working on projects. I feel like I am missing key concepts or it could all just be imposter syndrome. 
 
 **Thoughts:** 
 
