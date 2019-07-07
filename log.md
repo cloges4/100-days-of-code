@@ -820,3 +820,38 @@ Worked on FCC Intermediate Algorithm Scripting and tried to understand prototype
 **Thoughts:** I hit a few roadblocks today I overcame some and not others. I need to just remember I may not understand somethings now, but I will this is a process. Just keep moving forward.
 
 \*_Link to work:_
+
+
+
+### Day 37 July 3, 2019
+
+**Today's Progress** started learning about how to use apis, I want to build something using one so I decide to jump right in
+
+**Thoughts:** 
+
+\*_Link to work:_
+
+
+### Day 38 July 4, 2019
+
+**Today's Progress** enjoyed the holiday with the family, got a little coding in tonight. Worked on a few algorithm challenges. Still trying to decide on a big longer term project to build
+
+**Thoughts:** 
+
+\*_Link to work:_
+
+### Day 39 July 5, 2019
+
+**Today's Progress** was on the road traveling most of the day, only thing I was ablento do is read a few articles. I am ready for a productive weakend.
+
+**Thoughts:** 
+
+\*_Link to work:_
+
+### Day 40 July 6, 2019
+
+**Today's Progress** 
+
+**Thoughts:** 
+
+\*_Link to work:_
