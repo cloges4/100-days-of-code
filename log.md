@@ -865,3 +865,12 @@ Worked on FCC Intermediate Algorithm Scripting and tried to understand prototype
 **Thoughts:** 
 
 \*_Link to work:_
+
+
+### Day 42 July 8, 2019
+
+**Today's Progress** Today was day 1 of my week long review javascript. I used the feynman technique to find my weak spots and correct them. I also started working on first project using an api.
+
+**Thoughts:** I feel good about my progress today, despite the limited time I had available I have was able to identify a weakness in functions and correct that. I think if i continue this the rest of the week I should be able to minimize the imposter affect. I will make this apart of my regular routine.
+
+\*_Link to work:_
