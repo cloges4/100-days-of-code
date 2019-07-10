@@ -874,3 +874,13 @@ Worked on FCC Intermediate Algorithm Scripting and tried to understand prototype
 **Thoughts:** I feel good about my progress today, despite the limited time I had available I have was able to identify a weakness in functions and correct that. I think if i continue this the rest of the week I should be able to minimize the imposter affect. I will make this apart of my regular routine.
 
 \*_Link to work:_
+
+
+
+### Day 43 July 9, 2019
+
+**Today's Progress** Review some js concepts. Then worked on project, I understand how to get data from the api and use it, but I am running into trouble is how to protect the api key if my app only front end code? Am I missing something here?
+
+**Thoughts:** 
+
+\*_Link to work:_
