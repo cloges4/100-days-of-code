@@ -884,3 +884,14 @@ Worked on FCC Intermediate Algorithm Scripting and tried to understand prototype
 **Thoughts:** 
 
 \*_Link to work:_
+
+
+### Day 44 July 10, 2019
+
+**Today's Progress** Started the evening with reviewing Dom manipulation methods, was getting tired so I moved on to updating a project I did a few months ago. I added arrow functions, replaced the for loop with forEach, removed the massive if else statement in favor of a switch statement, and a few other minor changes.
+
+**Thoughts:** 
+
+\*_Link to work:_
+  [Live](https://cloges4.github.io/colorPicker/)
+  [Repo](https://github.com/cloges4/colorPicker)
