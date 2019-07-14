@@ -895,3 +895,35 @@ Worked on FCC Intermediate Algorithm Scripting and tried to understand prototype
 \*_Link to work:_
   [Live](https://cloges4.github.io/colorPicker/)
   [Repo](https://github.com/cloges4/colorPicker)
+
+
+
+  ### Day 45 July 11, 2019
+
+**Today's Progress** finished reviewing dom manipulation and a whole bunch of ES6 features. Hoping all these storms stop soon so I can get on my computer adn build something
+
+**Thoughts:** 
+
+\*_Link to work:_
+
+
+
+  ### Day 46 July 12, 2019
+
+**Today's Progress**worked project this evening,  once all the logic is done, I can focus on styling.
+
+**Thoughts:** 
+
+\*_Link to work:_
+
+
+  ### Day 47 July 13, 2019
+
+**Today's Progress** Spent the day working on a quiz app after, adding, then deleting things, and repeating that process a few times I have the markup done. I still have to finish all the logic. 
+
+**Thoughts:** 
+
+\*_Link to work:_
+
+
+
