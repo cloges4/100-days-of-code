@@ -926,4 +926,12 @@ Worked on FCC Intermediate Algorithm Scripting and tried to understand prototype
 \*_Link to work:_
 
 
+ ### Day 48 July 14, 2019
+
+**Today's Progress** Worked on the quiz app, didn't like the approach I was taking as it would make adding future features more difficult. My new approach will allow for a better mobile experince and scaling.
+
+**Thoughts:** 
+
+\*_Link to work:_
+
 
