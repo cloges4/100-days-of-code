@@ -935,3 +935,11 @@ Worked on FCC Intermediate Algorithm Scripting and tried to understand prototype
 \*_Link to work:_
 
 
+
+ ### Day 49 July 15, 2019
+
+**Today's Progress** Continued work on the quiz app. Added js to hide initial page items and show 1st question. Only major issue was hiding an inline svg but I finally figured out what needed to be done. Me  1 SVG 0.
+
+**Thoughts:** 
+
+\*_Link to work:_
