@@ -943,3 +943,21 @@ Worked on FCC Intermediate Algorithm Scripting and tried to understand prototype
 **Thoughts:** 
 
 \*_Link to work:_
+
+
+ ### Day 50 July 16, 2019
+
+**Today's Progress** worked on quiz app, I am happy with the direction and progress of the project. 
+
+**Thoughts:** 
+
+\*_Link to work:_
+
+
+ ### Day 51 July 17, 2019
+
+**Today's Progress** Continued working on quiz app today. Didn't as much done today as I hoped to, but I guess progress is progress.
+
+**Thoughts:** 
+
+\*_Link to work:_
